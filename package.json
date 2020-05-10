@@ -1,0 +1,25 @@
+{
+  "name": "kiosk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chrome-remote-interface": "^0.28.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreascarsetto/kiosk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreascarsetto/kiosk/issues"
+  },
+  "homepage": "https://github.com/andreascarsetto/kiosk#readme"
+}

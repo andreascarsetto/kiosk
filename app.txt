@@ -1,1 +1,8 @@
-npm install chrome-remote-interface
+npm initn
+npm install chrome-remote-interface --save
+npm install express --save
+npm start
+
+http://localhost:3000/changeStyle/
+
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome  https://dakboard.com/app/screenPredefined?p=401bfb23db912f3f9cd62de16cbf518c --remote-debugging-port=9222 --user-data-dir=remote-profile
